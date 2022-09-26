@@ -34,8 +34,9 @@ cd build
     --disable-multilib                            \
     --with-system-zlib                            \
     --enable-languages=c,c++                      \
-    --program-suffix=-12.2.0/
+    --program-suffix=-12.2.0
 
+# Achtung der make-Step kann je nach System sehr,sehr lange dauern!!!! 
 make -j$(nproc)
 sudo make install -j$(nproc)
 
