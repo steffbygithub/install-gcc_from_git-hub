@@ -25,10 +25,11 @@ install apt-cyg cygdrice/c/cygwin64/bin
 chmod +x apt-cyg
 apt-cyg install flex bison
 
-mkdir build
-./contrib/download_prerequisites --directory=build
+# Build erstellen
 
-cd build
+./contrib/download_prerequisites
+mkdir build
+cd build 
 ../configure                                      \
     --prefix=/usr                                 \
     --disable-multilib                            \
