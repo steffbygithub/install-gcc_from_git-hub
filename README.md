@@ -1,4 +1,4 @@
-# install-gcc_from_git-hub
+# install-gcc_from_git-hub for Ubuntu and Cygwin
 Hier die Informationen zur Installation eines GCC Umfelds aus den Quellen über das Clonen des Remote-Repositories bei GNU-C/C++
 # Disclaimer: 
 Ich dokumentiere hier mein Vorgehen, um den Studierenden eine einheitliche cygwin-Umgebung zu gewährleisten. Benutzung auf eigene Gefahr!
