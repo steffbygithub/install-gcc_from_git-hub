@@ -48,7 +48,10 @@ sudo make install -j$(nproc)
  
 # hilfreiche Links 
 
-[a link] (https://nextcloud.hof-university.de/s/dMydEw4CiJPdM4i)
+Unter dem nachfolgenden LInk kann ein Ubuntu-Image heruntergeladen werden, dass Sie einfach in Ihre Virtualisierungssoftware importieren können:
+   (https://nextcloud.hof-university.de/s/dMydEw4CiJPdM4i)
+
+Quellen und Zusatzinfos finden Sie unter:
 
 1. http://www.linuxfromscratch.org/blfs/view/svn/general/gcc.html
 2. https://gcc.gnu.org/install/configure.html
