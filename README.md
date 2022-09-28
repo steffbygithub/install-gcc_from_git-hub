@@ -48,6 +48,8 @@ sudo make install -j$(nproc)
  
 # hilfreiche Links 
 
+[a link] (https://nextcloud.hof-university.de/s/dMydEw4CiJPdM4i)
+
 1. http://www.linuxfromscratch.org/blfs/view/svn/general/gcc.html
 2. https://gcc.gnu.org/install/configure.html
 3. https://gcc.gnu.org/git.html
